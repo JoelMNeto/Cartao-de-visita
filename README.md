@@ -18,6 +18,8 @@
 
 - Quando o botão "Trocar Usuário" é clicado, é feita uma nova requisição e a api traz outro usuário.
 
+<br>
+
 ## **Tecnologias utilizadas**
 
 <div>
