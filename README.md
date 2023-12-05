@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="assets/cartaoDeVisita.png" alt="Cartão de visita" width="686">
+  <img src="assets/cartaoVisita.jpg" alt="Cartão de visita" width="686">
 </div>
 
 <br>
