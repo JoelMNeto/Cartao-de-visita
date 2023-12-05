@@ -1,6 +1,33 @@
-# Cartao-de-visita
-Página responsiva desenvolvida utilizando HTML5, CSS3, JavaScript e consumindo dados da API RandomUser 
+<h1 align="center">
+  Cartão de Visita
+</h1>
 
-A página traz cartões de visitas contendo as principais informações de usuários aleatórios.
+<br>
 
-<img src="./assets/CartaoVisita.png" width="686">
+<div align="center">
+  <img src="assets/cartaoDeVisita.png" alt="Cartão de visita" width="686">
+</div>
+
+<br>
+
+## **Sobre o projeto**
+
+#### Página de um cartão de visitas.
+
+- Site desenvolvido consumindo dados da api <a href="https://randomuser.me/">Random User</a>, que fornece informações de usuários fictícios.
+
+- Quando o botão "Trocar Usuário" é clicado, é feita uma nova requisição e a api traz outro usuário.
+
+## **Tecnologias utilizadas**
+
+<div>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/javascript">
+  <img src="https://skillicons.dev/icons?i=javascript"/>
+</a>
+</div>
